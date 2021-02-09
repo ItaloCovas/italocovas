@@ -7,6 +7,4 @@
 - 🤔 I’m looking for help with getting a job.
 - 💬 Ask me about something!
 - 📫 How to reach me: @italocovas
-- 😄 Pronouns: .
-- ⚡ Fun fact: .
 
