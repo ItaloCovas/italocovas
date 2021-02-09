@@ -8,3 +8,16 @@
 - 💬 Ask me about something!
 - 📫 How to reach me: @italocovas
 
+---------------------------------------------------------------------------------
+
+### Olá 👋
+
+
+- 🔭 Atualmente não trabalho, mas estou em busca de um emprego! :)
+- 🌱 Aprendendo HTML, CSS, JavaScript e noções de UX/UI Design.
+- 👯 Estou procurando colaborar no meu primeiro projeto ou trabalho.
+- 🤔 Estou procurando por ajuda em conseguir um trabalho.
+- 💬 Me pergunte algo!
+- 📫 Como me achar: @italocovas
+
+
