@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItaloCovas)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/static/v1?label=Overview&message=ItaloCovas&color=f8efd4&style=for-the-badge&logo=GitHub">
