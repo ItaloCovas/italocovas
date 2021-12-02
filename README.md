@@ -66,7 +66,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-italocovas@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italocovas@gmail.com)](mailto:italocovas@gmail.com)
 [![GitHub Ítalo Covas]( https://img.shields.io/github/followers/ItaloCovas?label=follow&style=social)](https://github.com/ItaloCovas)
 
-![Snake animation](https://github.com/ItaloCovas/ItaloCovas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ItaloCovas/ItaloCovas/blob/output/github-contribution-grid-snake.svg) x
 
 
 
