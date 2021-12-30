@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecrp.edu.br/">FATEC - Ribeirão Preto</a>.
 - 💼 &nbsp; A procura de minha primeira experiência profissional, seja como estágiario, seja como júnior.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript (VueJS) e UX/UI Design**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript, React, Node, Flutter e UX/UI Design**.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
@@ -42,7 +42,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying  **System Analysis and Development** at <a href="http://fatecrp.edu.br/"> FATEC - Ribeirão Preto</a>.
 - 💼 &nbsp; Searching for my first job opportunity, either as a trainee or as a junior.
-- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript (VueJS) and UX/UI Design**.
+- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, React, Node, Flutter and UX/UI Design**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
