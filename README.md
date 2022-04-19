@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecrp.edu.br/">FATEC - Ribeirão Preto</a>.
 - 💼 &nbsp; Estagiário de desenvolvimento.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript, React, Flutter e UX/UI Design**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript, Typescript, React, Flutter e UX/UI Design**.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
@@ -17,6 +17,7 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
@@ -45,7 +46,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying  **System Analysis and Development** at <a href="http://fatecrp.edu.br/"> FATEC - Ribeirão Preto</a>.
 - 💼 &nbsp; Development intern.
-- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, React, Flutter and UX/UI Design**.
+- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, Typescript, React, Flutter and UX/UI Design**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
@@ -55,6 +56,7 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
