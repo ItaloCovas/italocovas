@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecrp.edu.br/">FATEC - Ribeirão Preto</a>.
-- 💼 &nbsp; Estagiário de desenvolvimento.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript, Typescript, React, Flutter e UX/UI Design**.
+- 💼 &nbsp; Desenvolvedor Front End Jr.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS (SASS), Javascript, Typescript, React, Node e UX/UI Design**.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
@@ -19,7 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
 
   
@@ -45,8 +45,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying  **System Analysis and Development** at <a href="http://fatecrp.edu.br/"> FATEC - Ribeirão Preto</a>.
-- 💼 &nbsp; Development intern.
-- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, Typescript, React, Flutter and UX/UI Design**.
+- 💼 &nbsp; Junior Front End Developer.
+- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, Typescript, React, Node and UX/UI Design**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
@@ -58,7 +58,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
   
   
