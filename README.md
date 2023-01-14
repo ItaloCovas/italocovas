@@ -63,7 +63,7 @@
   
   
 <a href="https://github.com/ItaloCovas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloCovas&theme=dracula&show_icons=true" /> <br>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItaloCovas&theme=dracula&show_icons=true" /> <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItaloCovas&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 
