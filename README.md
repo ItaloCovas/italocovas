@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying  **System Analysis and Development** at <a href="http://fatecrp.edu.br/"> FATEC - Ribeirão Preto</a>.
-- 💼 &nbsp; Junior Front End Developer.
-- 🌱 &nbsp; Learning more of **HTML, CSS (SASS), Javascript, Typescript, React, Node and UX/UI Design**.
+- 💼 &nbsp; Junior Fullstack Developer.
+- 🌱 &nbsp; Always learning more of **Typescript, React, Node, C#, Tests, Clean Code, Software Architecture, AppSec and UX/UI Design**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
